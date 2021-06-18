@@ -1,11 +1,16 @@
 _repo: Yllatys-Yksinaytoksinen-naytelma_65612
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Asp, Kaarlo
     gutenberg_agent_id: '53424'
     url: http://www.gutenberg.org/2009/agents/53424
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65612#Yllatys-Yksinaytoksinen-naytelma
 gutenberg_issued: '2021-06-13'
 gutenberg_type: Text
 identifiers:
